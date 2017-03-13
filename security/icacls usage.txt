@@ -1,6 +1,6 @@
 Check Permissions
 Force Remove
-THen add Read + Execute
+Then add Read + Execute
 Validate Permissions
 
 icacls putty.exe
